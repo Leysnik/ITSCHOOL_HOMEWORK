@@ -23,6 +23,7 @@ public class DotOnEdge {
     public DotOnEdge(int x, int y) {
         this.x = x;
         this.y = y;
+
     }
     public DotOnEdge(){
         x = 0;
